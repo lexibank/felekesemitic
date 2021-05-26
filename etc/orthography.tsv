@@ -1,0 +1,271 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+^	NULL				
+$	NULL				
+ǝ	ə	ќǝbǝtto, dǝbbǝrǝm	Ezha, Gumer, Kistane, Geez, Inor, Muher, Gura, Amharic, Chaha, Endegagn, Gogot, Mesqan, Gyeto, Harari, Argobba, Silte	100	U+01dd
+a	a	ʔalga, ʔambɨr	Endegagn, Geez, Gyeto, Chaha, Harari, Argobba, Ezha, Oromo, Gura, Tigre, Inor, Gumer, Gogot, Amharic, Kistane, Tigrigna, Zway, Muher, Mesqan, Wolane, Silte	100	U+0061
+ɨ	ɨ	ʔɨnnɨm, ťɨќur	Mesqan, Chaha, Gumer, Amharic, Argobba, Gogot, Gura, Muher, Tigre, Ezha, Tigrigna, Wolane, Inor, Gyeto, Silte, Kistane, Zway, Endegagn, Geez	100	U+0268
+^ʔ	ʔ	ʔaťɨm, ʔalga	Endegagn, Chaha, Ezha, Gura, Gumer, Gyeto, Zway, Gogot, Inor, Wolane, Muher, Mesqan, Geez, Oromo, Silte, Kistane, Argobba, Tigre, Harari, Amharic, Tigrigna	100	U+005e U+0294
+a$	a	ʔalga, mwǝsa	Argobba, Chaha, Ezha, Oromo, Gogot, Gumer, Amharic, Endegagn, Harari, Inor, Gyeto, Geez, Gura, Muher, Mesqan, Tigrigna, Zway, Wolane, Kistane, Tigre, Silte	100	U+0061 U+0024
+r	r	gamera, ʔǝram	Inor, Geez, Chaha, Gura, Gumer, Ezha, Gyeto, Tigrigna, Oromo, Endegagn, Silte, Amharic, Argobba, Mesqan, Harari, Wolane, Gogot, Muher, Zway, Tigre, Kistane	100	U+0072
+n	n	ʔangača, danga	Endegagn, Amharic, Argobba, Gura, Silte, Chaha, Tigrigna, Mesqan, Inor, Gumer, Kistane, Ezha, Oromo, Zway, Muher, Gyeto, Gogot, Wolane, Tigre, Geez, Harari	100	U+006e
+ǝ$	ə	tɨkǝ, nǝfǝsǝ	Endegagn, Inor, Gyeto, Mesqan, Amharic, Silte, Chaha, Ezha, Gura, Wolane, Zway, Kistane, Geez, Gogot, Muher, Gumer, Tigrigna, Argobba, Tigre	100	U+01dd U+0024
+u	u	ťɨќur, ťub	Oromo, Harari, Silte, Tigrigna, Amharic, Argobba, Zway, Wolane, Gyeto, Ezha, Mesqan, Kistane, Gogot, Muher, Tigre, Geez, Gura, Inor, Endegagn, Chaha	100	U+0075
+t$	t	ʔamɨst, gǝbbat	Amharic, Geez, Gumer, Argobba, Chaha, Zway, Gogot, Gura, Silte, Gyeto, Ezha, Wolane, Inor, Harari, Tigrigna, Muher, Mesqan, Kistane, Tigre, Oromo, Endegagn	100	U+0074 U+0024
+b	b	ќǝbǝtto, ʔambɨr	Oromo, Gura, Wolane, Tigre, Silte, Kistane, Zway, Gogot, Inor, Harari, Geez, Ezha, Tigrigna, Muher, Mesqan, Endegagn, Gumer, Gyeto, Chaha, Amharic	100	U+0062
+m	m	ʔambɨr, ʔɨmar	Argobba, Gura, Muher, Mesqan, Inor, Silte, Gyeto, Chaha, Ezha, Endegagn, Gumer, Kistane, Gogot, Wolane, Tigre, Harari, Tigrigna, Oromo, Zway, Geez, Amharic	100	U+006d
+r$	r	wɨr, ʔɨmar	Gyeto, Gura, Gumer, Inor, Chaha, Ezha, Mesqan, Kistane, Gogot, Zway, Tigre, Amharic, Argobba, Endegagn, Wolane, Muher, Harari, Silte, Geez, Tigrigna, Oromo	100	U+0072 U+0024
+^m	m	mɨdad, mɨťad	Argobba, Amharic, Zway, Tigre, Kistane, Geez, Inor, Gyeto, Chaha, Ezha, Tigrigna, Oromo, Gogot, Wolane, Endegagn, Silte, Gura, Mesqan, Harari, Muher, Gumer	100	U+005e U+006d
+g	g	ʔalga, ʔǝgɨr	Tigrigna, Chaha, Oromo, Gogot, Harari, Geez, Gura, Mesqan, Gumer, Gyeto, Amharic, Argobba, Zway, Wolane, Inor, Endegagn, Silte, Kistane, Ezha, Muher, Tigre	100	U+0067
+^d	d	dǝm, dabbo	Endegagn, Amharic, Gogot, Inor, Harari, Gumer, Gyeto, Chaha, Ezha, Argobba, Oromo, Gura, Geez, Zway, Muher, Kistane, Tigrigna, Wolane, Silte, Mesqan, Tigre	100	U+005e U+0064
+m$	m	dǝm, ʔaťɨm	Gogot, Muher, Gumer, Gura, Chaha, Ezha, Kistane, Argobba, Mesqan, Tigrigna, Wolane, Tigre, Inor, Geez, Amharic, Endegagn, Harari, Silte, Zway, Gyeto	100	U+006d U+0024
+^b	b	bǝќɨr, buna	Silte, Gogot, Wolane, Harari, Ezha, Zway, Oromo, Muher, Endegagn, Chaha, Tigrigna, Mesqan, Gyeto, Kistane, Geez, Amharic, Argobba, Gura, Inor, Gumer, Tigre	100	U+005e U+0062
+^s	s	sǝb, sɨmmut	Tigrigna, Argobba, Amharic, Oromo, Tigre, Kistane, Zway, Gogot, Wolane, Inor, Silte, Gyeto, Muher, Harari, Geez, Chaha, Gura, Mesqan, Endegagn, Gumer, Ezha	100	U+005e U+0073
+^g	g	gɨyǝ, gunǝr	Gogot, Oromo, Inor, Ezha, Gyeto, Chaha, Zway, Gura, Muher, Gumer, Argobba, Mesqan, Endegagn, Harari, Kistane, Geez, Amharic, Tigrigna, Silte, Tigre, Wolane	100	U+005e U+0067
+i	i	ќǝmis, ʔɨnќurarit	Oromo, Harari, Zway, Wolane, Silte, Tigrigna, Argobba, Geez, Mesqan, Tigre, Gyeto, Kistane, Endegagn, Amharic, Chaha, Gogot, Gura, Muher, Inor, Gumer	100	U+0069
+^ќ	ќ/kʼ	ќǝbǝtto, ќǝld	Gura, Muher, Gumer, Chaha, Argobba, Mesqan, Endegagn, Harari, Oromo, Wolane, Silte, Amharic, Ezha, Zway, Inor, Gyeto, Kistane, Gogot, Geez	100	U+005e U+045c
+n$	n	gunnǝn, ʔen	Muher, Mesqan, Tigre, Harari, Kistane, Argobba, Gogot, Wolane, Endegagn, Silte, Amharic, Chaha, Zway, Geez, Tigrigna, Gura, Gumer, Gyeto, Inor, Oromo, Ezha	100	U+006e U+0024
+s	s	ʔammɨst, ќǝsǝm	Argobba, Gyeto, Oromo, Gumer, Wolane, Mesqan, Tigre, Inor, Harari, Silte, Geez, Amharic, Ezha, Gura, Muher, Kistane, Chaha, Tigrigna, Zway, Gogot, Endegagn	100	U+0073
+o	o	boќќollo, bora	Oromo, Kistane, Inor, Argobba, Gogot, Wolane, Endegagn, Silte, Gyeto, Amharic, Gura, Muher, Harari, Gumer, Ezha, Zway, Tigre, Chaha, Tigrigna, Mesqan, Geez	100	U+006f
+t	t	mǝto, wǝte	Tigrigna, Oromo, Tigre, Chaha, Geez, Zway, Mesqan, Inor, Gyeto, Endegagn, Harari, Gumer, Gogot, Gura, Amharic, Ezha, Argobba, Muher, Wolane, Silte, Kistane	100	U+0074
+l	l	ʔalga, ќǝld	Tigre, Harari, Tigrigna, Argobba, Zway, Geez, Kistane, Oromo, Wolane, Amharic, Gogot, Silte, Muher, Mesqan, Endegagn, Ezha, Inor, Gumer, Chaha	100	U+006c
+e	e	feќ, mena	Gumer, Chaha, Argobba, Gura, Ezha, Mesqan, Inor, Endegagn, Gyeto, Muher, Wolane, Oromo, Geez, Gogot, Silte, Tigre, Zway, Amharic	100	U+0065
+o$	o	ќǝbǝtto, ʔazzo	Silte, Amharic, Wolane, Kistane, Argobba, Oromo, Zway, Mesqan, Gumer, Geez, Gogot, Muher, Tigre, Ezha, Tigrigna, Gura, Harari, Gyeto, Chaha	100	U+006f U+0024
+^w	w	wɨťǝt, wɨr	Wolane, Harari, Kistane, Silte, Gura, Mesqan, Tigre, Inor, Gumer, Chaha, Tigrigna, Zway, Muher, Amharic, Ezha, Argobba, Oromo, Gogot, Gyeto, Endegagn, Geez	100	U+005e U+0077
+ʔ	ʔ	gunʔǝr, tǝrʔas	Inor, Geez, Endegagn, Gyeto, Tigre, Tigrigna, Muher, Harari, Oromo, Gogot, Argobba, Wolane, Ezha, Gura, Silte	100	U+0294
+i$	i	zi, dumi	Tigrigna, Harari, Zway, Wolane, Oromo, Geez, Mesqan, Argobba, Kistane, Muher, Tigre, Silte, Gura, Ezha, Gogot, Inor, Endegagn	100	U+0069 U+0024
+ќ	ќ/kʼ	ťɨќur, ʔɨnќurarit	Wolane, Gyeto, Argobba, Zway, Gura, Harari, Chaha, Tigre, Geez, Amharic, Mesqan, Silte, Inor, Gumer, Kistane, Ezha, Endegagn, Oromo, Muher	100	U+045c
+^n	n	nǝgǝ, nɨgus	Tigrigna, Gura, Gumer, Chaha, Inor, Endegagn, Gyeto, Ezha, Argobba, Amharic, Zway, Gogot, Muher, Geez, Oromo, Mesqan, Tigre, Wolane, Silte, Kistane, Harari	100	U+005e U+006e
+e$	e	wǝte, gwǝbbe	Oromo, Silte, Wolane, Muher, Tigre, Argobba, Gogot, Amharic, Ezha, Chaha, Geez, Mesqan, Gura, Endegagn, Gumer, Harari, Zway, Inor	100	U+0065 U+0024
+d	d	mɨdad, sɨdɨst	Oromo, Tigrigna, Inor, Kistane, Silte, Argobba, Harari, Geez, Zway, Wolane, Amharic, Tigre, Endegagn, Muher, Gyeto, Chaha, Ezha, Gogot, Gura, Mesqan, Gumer	100	U+0064
+s$	s	ʔamus, ќǝmis	Tigre, Amharic, Geez, Argobba, Muher, Gumer, Zway, Wolane, Mesqan, Endegagn, Tigrigna, Gura, Gogot, Harari, Silte, Kistane, Chaha, Ezha, Gyeto, Inor	100	U+0073 U+0024
+z	z	wɨzat, nǝzǝzǝm	Silte, Gyeto, Gura, Wolane, Harari, Gumer, Geez, Chaha, Zway, Gogot, Muher, Kistane, Ezha, Tigrigna, Mesqan, Inor, Argobba, Tigre, Endegagn, Oromo, Amharic	100	U+007a
+^t	t	tǝn, tumma	Chaha, Geez, Muher, Mesqan, Gumer, Ezha, Zway, Gura, Tigre, Endegagn, Silte, Kistane, Gogot, Wolane, Inor, Harari, Gyeto, Amharic, Tigrigna, Oromo, Argobba	100	U+005e U+0074
+f	f	kǝnfǝr, nɨfas	Tigrigna, Oromo, Argobba, Tigre, Geez, Amharic, Gumer, Zway, Inor, Endegagn, Harari, Gyeto, Kistane, Gogot, Wolane, Muher, Mesqan, Silte, Chaha, Gura, Ezha	93	U+0066
+aa	aː	daabaanaa, sinaan	Harari, Oromo, Zway, Wolane, Silte, Argobba, Amharic, Inor	92	U+0061 U+0061
+ť	ť/tʼ	wɨťǝt, ʔaťɨm	Kistane, Gura, Gumer, Argobba, Muher, Mesqan, Silte, Gyeto, Ezha, Zway, Wolane, Gogot, Inor, Harari, Chaha, Tigre, Endegagn, Amharic, Geez, Oromo	87	U+0165
+^ť	ť/tʼ	ťay, ťɨќur	Argobba, Amharic, Harari, Muher, Mesqan, Gumer, Gyeto, Gogot, Gura, Inor, Silte, Kistane, Chaha, Ezha, Wolane, Endegagn, Zway, Geez, Tigrigna, Oromo, Tigre	81	U+005e U+0165
+^z	z	zǝr, zɨnab	Geez, Muher, Kistane, Amharic, Argobba, Gogot, Ezha, Mesqan, Tigre, Harari, Silte, Chaha, Tigrigna, Zway, Gura, Wolane, Gumer, Gyeto, Inor, Endegagn	81	U+005e U+007a
+^k	k	kǝnfǝr, kuttǝna	Tigrigna, Argobba, Gogot, Tigre, Kistane, Oromo, Geez, Muher, Mesqan, Gumer, Amharic, Ezha, Inor, Harari, Silte, Gyeto, Chaha, Wolane, Gura, Endegagn	72	U+005e U+006b
+h	h	sahɨn, ʔǝhɨr	Argobba, Wolane, Amharic, Zway, Endegagn, Chaha, Gura, Gogot, Mesqan, Tigre, Inor, Silte, Geez, Tigrigna, Oromo, Muher, Gumer, Ezha, Kistane	72	U+0068
+w	w	ќawa, ќǝwǝrǝ	Endegagn, Muher, Gyeto, Gura, Inor, Geez, Chaha, Tigrigna, Gumer, Argobba, Zway, Mesqan, Harari, Silte, Kistane, Ezha, Gogot, Wolane, Tigre, Amharic	69	U+0077
+mm	mː	tumma, ʔammɨst	Gogot, Geez, Zway, Muher, Kistane, Amharic, Tigrigna, Wolane, Mesqan, Silte, Gumer, Ezha, Argobba, Oromo, Gura, Endegagn, Harari, Tigre, Inor, Gyeto, Chaha	67	U+006d U+006d
+d$	d	ќǝld, mɨdad	Argobba, Endegagn, Amharic, Geez, Wolane, Inor, Zway, Tigre, Harari, Silte, Gogot, Muher, Mesqan, Kistane, Tigrigna, Gura, Gumer, Gyeto, Chaha, Ezha	67	U+0064 U+0024
+b$	b	sǝb, zɨnab	Tigre, Geez, Gogot, Mesqan, Amharic, Zway, Wolane, Silte, Argobba, Muher, Gyeto, Kistane, Chaha, Ezha, Tigrigna, Gura, Inor, Harari, Gumer	66	U+0062 U+0024
+ss	sː	ʔassɨr, ʔasso	Oromo, Amharic, Muher, Tigrigna, Gogot, Ezha, Argobba, Wolane, Mesqan, Harari, Silte, Kistane, Tigre, Endegagn, Gumer, Chaha, Zway, Gura, Inor, Geez	64	U+0073 U+0073
+k	k	tɨkǝ, mǝrkama	Inor, Ezha, Gura, Gyeto, Chaha, Muher, Silte, Zway, Gogot, Tigre, Endegagn, Gumer, Oromo, Mesqan, Kistane, Amharic, Argobba, Wolane, Harari, Geez	62	U+006b
+u$	u	ťu, ʔahu	Zway, Geez, Tigrigna, Harari, Oromo, Tigre, Amharic, Argobba, Gura, Gumer, Gyeto, Kistane, Gogot, Wolane, Inor, Silte, Chaha	62	U+0075 U+0024
+l$	l	ќal, ќɨmal	Kistane, Geez, Wolane, Silte, Amharic, Tigre, Tigrigna, Argobba, Gogot, Harari, Zway, Oromo, Muher, Mesqan, Endegagn, Gyeto, Chaha	62	U+006c U+0024
+š	ʃ	mɨšt, šešt	Silte, Harari, Zway, Gyeto, Gura, Wolane, Chaha, Argobba, Oromo, Inor, Endegagn, Kistane, Gogot, Tigre, Gumer, Ezha, Muher, Mesqan, Amharic	61	U+0161
+^f	f	fǝrǝz, feќ	Silte, Zway, Wolane, Ezha, Argobba, Gura, Gogot, Muher, Mesqan, Inor, Harari, Gyeto, Kistane, Amharic, Oromo, Tigre, Gumer, Geez, Chaha, Tigrigna, Endegagn	59	U+005e U+0066
+^h	h	hut, hɨnnǝ	Oromo, Tigre, Argobba, Silte, Gura, Mesqan, Amharic, Zway, Endegagn, Ezha, Wolane, Inor, Tigrigna, Muher, Chaha	58	U+005e U+0068
+ć	ć/tʃʼ	ʔaćɨr, sǝćǝ	Harari, Gura, Chaha, Gyeto, Gogot, Wolane, Gumer, Oromo, Kistane, Zway, Inor, Silte, Ezha, Muher, Tigrigna, Amharic, Endegagn, Mesqan	55	U+0107
+bb	bː	dabbo, gǝbbat	Oromo, Tigrigna, Mesqan, Amharic, Ezha, Gogot, Muher, Kistane, Argobba, Wolane, Tigre, Gumer, Geez, Zway, Gura, Inor, Endegagn, Harari, Silte, Chaha	54	U+0062 U+0062
+^l	l	lam, leba	Argobba, Oromo, Amharic, Zway, Gogot, Tigre, Tigrigna, Muher, Geez, Wolane, Harari, Kistane, Gura, Mesqan, Inor, Silte, Gyeto, Chaha, Ezha	51	U+005e U+006c
+ll	lː	boќќollo, bǝќќollo	Oromo, Amharic, Tigre, Harari, Silte, Kistane, Wolane, Tigrigna, Zway, Gogot, Muher, Gumer, Geez, Ezha, Gura, Mesqan, Inor, Gyeto, Chaha	50	U+006c U+006c
+z$	z	ruz, fǝrǝz	Zway, Gura, Gogot, Wolane, Muher, Inor, Gumer, Gyeto, Geez, Chaha, Tigrigna, Mesqan, Tigre, Endegagn, Harari, Silte, Kistane, Ezha, Argobba, Amharic	50	U+007a U+0024
+^r	r	ruz, rǝkǝbǝ	Oromo, Tigre, Tigrigna, Geez, Wolane, Silte, Argobba, Mesqan, Harari, Amharic, Zway, Gogot, Gura, Muher, Inor, Endegagn, Gumer, Gyeto, Kistane, Chaha, Ezha	48	U+005e U+0072
+ќ$	kʼ	feќ, ťǝrǝќ	Zway, Geez, Silte, Gumer, Gyeto, Harari, Gogot, Mesqan, Gura, Amharic, Ezha, Tigre, Wolane, Chaha, Kistane, Inor	47	U+045c U+0024
+nn	nː	gunnǝn, ʔɨnnɨm	Ezha, Gogot, Mesqan, Muher, Kistane, Geez, Amharic, Endegagn, Wolane, Tigrigna, Gumer, Gyeto, Oromo, Gura, Tigre, Inor, Silte, Chaha	47	U+006e U+006e
+č	tʃ	ʔangača, gwǝnčǝ	Argobba, Silte, Zway, Wolane, Inor, Gyeto, Kistane, Muher, Mesqan, Chaha, Harari, Gura, Gumer, Ezha, Tigre, Endegagn	47	U+010d
+x	x	ʔaxǝ, ʔɨxa	Gyeto, Gumer, Harari, Kistane, Chaha, Tigrigna, Muher, Inor, Silte, Ezha, Argobba, Mesqan, Gura, Endegagn, Wolane	45	U+0078
+^ħ	ħ	ħǝgǝzǝ, ħɨśǝś	Tigrigna, Harari, Tigre, Geez	43	U+005e U+0127
+ay$	ay/ai̯	ťay, may	Tigrigna, Tigre, Zway, Geez, Gumer, Silte, Gyeto, Amharic, Argobba, Harari, Ezha, Kistane, Wolane, Inor, Endegagn	41	U+0061 U+0079 U+0024
+^ğ	dʒ	ğǝnğɨr, ğǝpǝrǝ	Oromo, Gura, Argobba, Gumer, Zway, Amharic, Inor, Chaha, Gyeto, Wolane, Harari, Kistane, Muher, Mesqan, Tigre, Silte, Ezha	40	U+005e U+011f
+^x	x	xamus, xɨno	Gumer, Gyeto, Argobba, Chaha, Gura, Inor, Ezha, Muher, Kistane, Mesqan, Harari, Wolane, Endegagn, Silte	40	U+005e U+0078
+tt	tː	ќǝbǝtto, kuttǝna	Muher, Mesqan, Gogot, Ezha, Gumer, Silte, Gyeto, Oromo, Kistane, Wolane, Endegagn, Harari, Geez, Gura, Amharic, Tigre	39	U+0074 U+0074
+rr	rː	sɨrre, kɨrrǝ	Oromo, Argobba, Muher, Gogot, Kistane, Zway, Mesqan, Amharic, Tigre, Harari, Geez, Wolane, Silte, Endegagn	35	U+0072 U+0072
+dd	dː	sɨddɨst, ʔaddarǝ	Muher, Oromo, Gogot, Mesqan, Kistane, Tigrigna, Amharic, Ezha, Argobba, Zway, Gura, Wolane, Tigre, Inor, Endegagn, Harari, Silte, Gumer, Geez	34	U+0064 U+0064
+^č	tʃ	čǝwač, čǝnǝ	Gumer, Gyeto, Argobba, Ezha, Gura, Chaha, Muher, Mesqan, Inor, Gogot, Wolane, Silte, Endegagn	31	U+005e U+010d
+ňň	ňň/ɲː	dǝngǝňňǝ, ʔɨmatǝňňa	Muher, Gogot, Amharic, Kistane, Mesqan, Argobba, Oromo, Ezha, Endegagn, Gura, Wolane, Silte, Chaha	31	U+0148 U+0148
+ee	eː	gees, gaameela	Oromo, Silte, Harari, Zway, Wolane, Argobba	30	U+0065 U+0065
+^š	ʃ	šemǝ, šešt	Tigre, Harari, Zway, Wolane, Silte, Oromo, Ezha, Tigrigna, Gumer, Gyeto, Muher, Gogot, Gura, Mesqan, Endegagn, Chaha	30	U+005e U+0161
+uu	uː	ʔuun, luuge	Harari, Zway, Oromo, Silte, Inor	28	U+0075 U+0075
+ğ	dʒ	ğǝnğɨr, ğǝnğɨn	Oromo, Wolane, Gyeto, Harari, Zway, Silte, Ezha, Gumer, Argobba, Muher, Kistane, Gura, Mesqan, Inor, Chaha	28	U+011f
+ʔ$	ʔ	dǝrǝʔ, sɨneʔ	Harari, Inor, Endegagn, Tigre, Tigrigna, Gyeto, Muher, Geez, Gura	24	U+0294 U+0024
+ħ	ħ	śəħay, ʔalħad	Harari, Geez, Tigre, Tigrigna	23	U+0127
+^ʕ	ʕ	ʕarat, ʕatǝr	Geez, Tigrigna, Tigre	23	U+005e U+0295
+w$	w	ťuw, ćǝw	Argobba, Endegagn, Harari, Amharic, Tigrigna, Ezha, Geez, Gyeto, Muher	23	U+0077 U+0024
+^mw	m w	mwan, mwǝsa	Gumer, Gyeto, Gura, Ezha, Muher, Mesqan, Inor, Chaha, Gogot	22	U+005e U+006d U+0077
+ʕ	ʕ	gaʕt, ʔɨnќɨrʕob	Tigrigna, Tigre, Geez	21	U+0295
+ə	ə	wəssənə, səw	Tigrigna, Endegagn, Amharic, Ezha	21	U+0259
+ćć	ćć/tʃʼ	ʔaććɨr, sǝććǝ	Kistane, Gogot, Mesqan, Amharic, Muher, Endegagn, Gumer, Ezha, Wolane, Tigre, Silte	21	U+0107 U+0107
+aa$	aː	hoolaa, gogaa	Oromo, Zway, Wolane	20	U+0061 U+0061 U+0024
+^ǯ	ǯ/ʒ	ǯǝťǝ, ǯǝxwǝrǝ	Gumer, Gura, Mesqan, Inor, Chaha, Ezha, Kistane, Muher, Endegagn	20	U+005e U+01ef
+^ć	ć/tʃʼ	ćet, ćeerǝsǝ	Amharic, Argobba, Harari, Tigre, Silte, Tigrigna, Gumer, Kistane, Gura, Wolane, Mesqan, Chaha, Ezha	19	U+005e U+0107
+zz	zː	ʔazzo, nǝzzǝzǝm	Harari, Amharic, Gogot, Mesqan, Ezha, Tigrigna, Gumer, Kistane, Muher, Zway, Wolane	19	U+007a U+007a
+kk	kː	nǝkkǝbǝm, bǝkkyǝm	Gumer, Endegagn, Oromo, Mesqan, Tigrigna, Argobba, Ezha, Muher, Geez, Gogot, Tigre, Silte	18	U+006b U+006b
+čč	tʃː	ʔangačča, dibičča	Oromo, Wolane, Mesqan, Gumer, Argobba, Ezha, Zway, Gogot, Silte, Endegagn	17	U+010d U+010d
+p	p	gǝpat, ğǝpǝrǝ	Gura, Chaha, Gyeto, Inor, Gumer, Oromo	17	U+0070
+^t'ʸ	tʼʲ
+^ś	ś/s	śəħay, śǝllim	Tigrigna, Geez, Tigre, Amharic	17	U+005e U+015b
+kw	k w	ʔǝkkwa, ʔǝkwa	Gumer, Muher, Kistane, Mesqan, Inor, Ezha, Gyeto, Geez, Gogot, Gura, Chaha	17	U+006b U+0077
+tt$	tː	ʔatt, xwett	Mesqan, Gogot, Amharic, Ezha, Kistane, Muher, Silte, Endegagn	17	U+0074 U+0074 U+0024
+ň	ň/ɲ	dǝngǝňǝ, ʔemǝňǝ	Gyeto, Zway, Inor, Harari, Argobba, Muher, Gogot	16	U+0148
+oo	oː	ќooče, boora	Harari, Oromo, Wolane, Silte, Zway	16	U+006f U+006f
+^yǝ	y/j ə	yǝxut, yǝmwǝќǝ	Mesqan, Kistane, Amharic, Chaha, Gumer, Muher, Wolane, Gura, Gogot, Silte, Ezha	16	U+005e U+0079 U+01dd
+ќќ	ќќ/kʼː	boќќollo, bǝќќollo	Gogot, Oromo, Wolane, Amharic, Silte, Argobba, Kistane, Muher, Mesqan, Endegagn	16	U+045c U+045c
+ɨyǝ$	ɨ y/j ə	gɨyǝ, dɨyǝ	Inor, Gyeto, Muher, Endegagn, Gumer, Gogot, Gura, Mesqan, Wolane, Chaha	15	U+0268 U+0079 U+01dd U+0024
+ff	fː	sǝffi, nǝffǝsǝ	Argobba, Amharic, Tigrigna, Oromo, Kistane, Muher, Zway, Geez, Gogot, Mesqan, Wolane, Tigre, Ezha	15	U+0066 U+0066
+xw	x w	ʔǝxwa, ǯǝxwǝrǝ	Gyeto, Gumer, Gura, Mesqan, Chaha, Ezha, Muher, Inor	15	U+0078 U+0077
+ns	n s	ќǝťansǝnbǝt, kɨdansǝnbǝt	Oromo, Harari, Kistane, Muher, Gogot, Gura, Mesqan, Wolane, Inor, Silte, Chaha, Ezha	14	U+006e U+0073
+šš	ʃː	bɨšša, bɨššǝ	Kistane, Gumer, Amharic, Endegagn, Ezha, Muher, Gogot, Mesqan, Wolane	14	U+0161 U+0161
+ťť	ťť/tʼː	mǝťťa, nǝťťǝќǝ	Amharic, Argobba, Tigrigna, Kistane, Muher, Zway, Geez, Gogot, Wolane, Inor, Silte	14	U+0165 U+0165
+ay	ay/ai̯	ʔayn, ʔayte	Gyeto, Tigrigna, Zway, Wolane, Silte, Geez, Amharic, Tigre	14	U+0061 U+0079
+ś	ś/s	ʔaśm, mɨśaʔ	Geez, Tigrigna, Tigre, Zway	13	U+015b
+^gw	g w	gwǝbbe, gwǝnčǝ	Gumer, Gyeto, Mesqan, Chaha, Ezha, Muher, Gogot, Gura	13	U+005e U+0067 U+0077
+ќw	ќ/kʼ w	ʔɨnќwɨra, ʔanќwǝ	Ezha, Gumer, Gura, Chaha, Muher, Gogot, Mesqan, Inor	13	U+045c U+0077
+š$	ʃ	ʔaraš, ʔaraaš	Tigre, Harari, Argobba, Kistane, Gogot, Mesqan, Wolane, Amharic	11	U+0161 U+0024
+^ќw	ќ/kʼ w	ќwǝnćǝ, ќwǝnčǝ	Geez, Gyeto, Gumer, Gogot, Gura, Mesqan, Chaha, Ezha	11	U+005e U+045c U+0077
+rs	r s	wursǝnbǝt, wɨrsǝnbǝt	Tigrigna, Gumer, Kistane, Muher, Geez, Gura, Mesqan, Inor, Silte, Chaha, Ezha	11	U+0072 U+0073
+ʕ$	ʕ	rǝbuʕ, tǝllaʕ	Geez, Tigrigna, Tigre	10	U+0295 U+0024
+g$	g	ʔadɨg, weg	Gumer, Gyeto, Argobba, Harari, Muher, Kistane, Geez, Amharic, Tigre, Endegagn	10	U+0067 U+0024
+ii	iː	miila, ќǝćiin	Oromo, Harari, Silte	10	U+0069 U+0069
+č$	tʃ	čǝwač, ʔidooč	Harari, Tigrigna, Gumer, Gyeto, Muher, Gura, Chaha, Ezha	10	U+010d U+0024
+pp	pː	dappǝrǝ, ğǝppǝrǝ	Gumer, Endegagn, Gyeto, Inor	9	U+0070 U+0070
+ǝy$	əy/əi̯	mǝy, tǝtatǝy	Silte, Tigrigna, Harari, Muher, Kistane, Zway, Wolane, Tigre	9	U+01dd U+0079 U+0024
+f$	f	lǝflǝf, gǝzif	Tigrigna, Harari, Argobba, Zway, Wolane, Tigre, Silte	9	U+0066 U+0024
+ħ$	ħ	ʔanќuraaraħ, fǝnguħ	Tigrigna, Harari, Tigre	9	U+0127 U+0024
+gg	gː	ʔaggǝzǝ, ʔaggǝzǝm	Tigre, Argobba, Geez, Gogot, Mesqan, Amharic, Ezha	9	U+0067 U+0067
+ǯ	ǯ/ʒ	gɨnǯǝ, ʔaǯǝ	Muher, Kistane, Mesqan, Gura, Inor, Silte, Chaha, Ezha	8	U+01ef
+ğğ	dʒː	fǝğğǝm, ťɨğğa	Argobba, Oromo, Ezha, Muher, Zway, Gogot, Amharic, Endegagn	8	U+011f U+011f
+ś$	ś/s	nɨЌwuś, ħargəś	Geez, Tigrigna	8	U+015b U+0024
+Š	Š/ʃ	gǝyaŠay, śaʕɨdaŠɨngʷur	Tigrigna, Tigre	8	U+0160
+^ž	ʒ	žǝťǝ, žǝxwǝra	Gyeto, Gogot, Argobba, Zway, Wolane	8	U+005e U+017e
+^xw	x w	xwet, xwett	Muher, Gumer, Gyeto, Gura, Mesqan, Chaha, Ezha	8	U+005e U+0078 U+0077
+ň$	ň/ɲ	ʔahaň, žaaťťǝň	Argobba, Harari, Kistane, Zway, Wolane	8	U+0148 U+0024
+iyǝ$	i y/j ə	tǝttiyǝ, wǝsťiniyǝ	Inor, Gyeto, Muher, Gura, Chaha, Ezha	7	U+0069 U+0079 U+01dd U+0024
+yǝ$	y/j ə	nɨќyǝ, zagɨzyǝ	Gumer, Geez, Gura, Mesqan, Gogot, Inor	7	U+0079 U+01dd U+0024
+gw	g w	nɨgwɨs, ʔɨgwǝlt	Geez, Gumer, Mesqan, Inor, Silte, Ezha	7	U+0067 U+0077
+^ɗ	ɗ	ɗibba, ɗokote	Oromo	7	U+005e U+0257
+^q	q	qǝťťin, qal	Tigrigna	7	U+005e U+0071
+mw	m w	yǝmwǝќǝ, gamwǝ	Gumer, Chaha, Mesqan, Gura	7	U+006d U+0077
+iya$	i y/j a	kiya, siya	Tigrigna, Gyeto, Kistane, Mesqan, Gogot, Amharic, Inor	7	U+0069 U+0079 U+0061 U+0024
+nn$	nː	tǝnn, bunn	Ezha, Argobba, Geez, Mesqan, Amharic	6	U+006e U+006e U+0024
+^yɨ	y/j ɨ	yɨbus, yɨʔǝze	Geez, Kistane, Amharic, Tigre	6	U+005e U+0079 U+0268
+bb$	bː	lɨbb	Kistane, Muher, Geez, Gogot, Amharic, Tigre	6	U+0062 U+0062 U+0024
+gws$	g w s	nɨgws, nugws	Gyeto, Muher, Gura, Mesqan, Inor, Chaha	6	U+0067 U+0077 U+0073 U+0024
+^bw	b w	bwǝrćuma, bwǝrćǝma	Gyeto, Muher, Gogot, Mesqan, Chaha, Ezha	6	U+005e U+0062 U+0077
+bs$	b s	gǝbs, lɨbs	Gogot, Kistane, Amharic, Geez	5	U+0062 U+0073 U+0024
+^kw	k w	kwa, kwinat	Gogot, Kistane, Tigrigna, Geez	5	U+005e U+006b U+0077
+uu$	uː	gutuu, ťobuu	Oromo, Zway	5	U+0075 U+0075 U+0024
+h$	h	ʔǝh, ќǝyɨh	Argobba, Tigrigna, Amharic, Harari	5	U+0068 U+0024
+x$	x	xɨx, ʔax	Tigrigna, Gumer, Gogot, Chaha, Ezha	5	U+0078 U+0024
+ğ$	ğ/dʒ	lɨğ, čǝwağ	Argobba, Harari, Wolane, Amharic, Inor	5	U+011f U+0024
+^a	a	arba, aǯǯǝm	Harari, Oromo, Muher, Zway, Silte	5	U+005e U+0061
+aay$	aay/aːi̯	ќumaay, ќaay	Harari, Zway	5	U+0061 U+0061 U+0079 U+0024
+ǝyǝ$	ə y/j ə	mǝśǝyǝ, sǝtǝyǝ	Tigrigna, Chaha, Endegagn	5	U+01dd U+0079 U+01dd U+0024
+pw	p w	tǝpwǝm, ťǝpwǝ	Gumer, Gyeto, Gura, Inor, Chaha	5	U+0070 U+0077
+ɨ$	ɨ	zɨ, ʔasɨ	Gumer, Geez, Gura, Chaha, Ezha	5	U+0268 U+0024
+yi	y/j i	gyišǝ, xyit	Gura, Chaha, Endegagn, Ezha	4	U+0079 U+0069
+ee$	eː	ʔazzee, ʔonnee	Oromo, Harari	4	U+0065 U+0065 U+0024
+ɨya$	ɨ y/j a	ќarɨya, ʔahɨya	Gumer, Amharic, Argobba, Kistane	4	U+0268 U+0079 U+0061 U+0024
+yǝ	y/j ə	bǝkkyǝm, ʔaazyǝgǝdu	Gumer, Harari, Muher	4	U+0079 U+01dd
+^Š	Š/ʃ	Šǝħanə, Šǝwʕatǝ	Tigrigna	4	U+005e U+0160
+rh	r h	dǝrho, mǝrhabib	Tigre, Tigrigna, Geez	4	U+0072 U+0068
+yɨ	y/j ɨ	xyɨt, xyɨta	Gumer, Chaha, Gura	4	U+0079 U+0268
+^ya	y/j a	yahay, yahut	Zway, Gura, Oromo	4	U+005e U+0079 U+0061
+ǯǯ	ǯǯ/ʒː	ʔaǯǯǝ, aǯǯǝm	Mesqan, Ezha, Muher, Kistane	4	U+01ef U+01ef
+ye$	y/j e	gɨzye, tǝhanќye	Gura, Ezha, Mesqan, Kistane	4	U+0079 U+0065 U+0024
+ḫ	ḫ/ħ	ʔɨḫɨw, nǝfḫǝ	Geez	3	U+1e2b
+^ḫ	ħ	ḫǝmus, ḫǝmś	Geez	3	U+005e U+1e2b
+ť$	ť/tʼ	ʔaať, wǝsť	Silte, Gyeto, Harari	3	U+0165 U+0024
+ə$	ə	Šǝħanə, wəssənə	Tigrigna	3	U+0259 U+0024
+ɨyyǝ	ɨ yy/jː ə	fɨyyǝl	Amharic, Argobba, Kistane	3	U+0268 U+0079 U+0079 U+01dd
+β	β	nǝkǝβǝ, ʔarβǝt	Gumer, Inor	3	U+03b2
+ɨy$	ɨy/ɨi̯	wɨy, ʔɨngwǝrǝgɨy	Tigre, Harari, Inor	3	U+0268 U+0079 U+0024
+uy$	uy/ui̯	sǝnuy, wuʕuy	Tigrigna, Geez	3	U+0075 U+0079 U+0024
+p$	p	ǯǝp, žǝp	Chaha, Gyeto, Inor	3	U+0070 U+0024
+ii$	iː	hiɗii, roobii	Oromo	3	U+0069 U+0069 U+0024
+ǝya$	ə y/j a	fǝngǝya, mǝya	Gyeto, Inor	3	U+01dd U+0079 U+0061 U+0024
+ayǝ$	a y/j ə	ʔɨwayǝ, rǝʔayǝ	Tigrigna, Gyeto, Endegagn	3	U+0061 U+0079 U+01dd U+0024
+^yi	y/j i	yimɨr, yiga	Kistane	3	U+005e U+0079 U+0069
+iy$	iy/i	ʕǝbbiy, miy	Harari, Geez	2	U+0069 U+0079 U+0024
+ž	ʒ	mǝnamhanža, gɨňžǝ	Gogot, Argobba	2	U+017e
+k$	k	malǝk, ʔank	Argobba, Kistane	2	U+006b U+0024
+^Ќ	Ќ/kʼ	Ќɨlśɨm, Ќulfi	Tigrigna	2	U+005e U+040c
+uyyǝ$	u yy/jː ə	ťɨbuyyǝ	Gogot, Kistane	2	U+0075 U+0079 U+0079 U+01dd U+0024
+aaya$	aa/aː y/j a	wǝlǝngaaya, ħawbaaya	Wolane, Harari	2	U+0061 U+0061 U+0079 U+0061 U+0024
+oo$	oː	yaroo, boќoo	Oromo, Zway	2	U+006f U+006f U+0024
+bs	b s	ʔarrabse, angaabsu	Oromo, Zway	2	U+0062 U+0073
+ɨyyǝ$	ɨ yy/jː ə	gogɨyyǝ, gɨyyǝ	Gogot, Ezha	2	U+0268 U+0079 U+0079 U+01dd U+0024
+śś	śś/sː	ħaśśir, fǝśśǝmǝ	Tigrigna, Geez	2	U+015b U+015b
+ňň$	ňň/ɲː	zǝťǝňň, ʔaťǝbiňň	Amharic, Harari	2	U+0148 U+0148 U+0024
+ṗṗ	pʼː	buṗṗa	Silte, Oromo	2	U+1e57 U+1e57
+qw	q w	ʔɨnqwaqwuħ	Tigrigna	2	U+0071 U+0077
+^yu	y/j u	yuhǝ, yuha	Silte, Wolane	2	U+005e U+0079 U+0075
+ayyǝ	a yy/jː ə	ʕayyǝrǝ, ʔayyǝn	Tigrigna, Geez	2	U+0061 U+0079 U+0079 U+01dd
+ayǝ	a y/j ə	ħayǝt, ʕayǝra	Tigre	2	U+0061 U+0079 U+01dd
+ɗ	ɗ	kuɗan, hiɗii	Oromo	2	U+0257
+q	q	səraqi, bǝqli	Tigrigna	2	U+0071
+ts	ts	ќǝdamitsǝnbǝt, ќǝťatsǝmbǝt	Gyeto, Geez	2	U+0074 U+0073
+ya$	y/j a	xya, tǝttɨnya	Ezha, Muher	2	U+0079 U+0061 U+0024
+bw	b w	ťǝbbwǝm	Ezha, Muher	2	U+0062 U+0077
+rs$	r s	dǝrs	Mesqan, Kistane	2	U+0072 U+0073 U+0024
+^ș	sʼ	șǝlǝs, șɨrnay	Geez	2	U+005e U+0219
+^yo	y/j o	yom	Tigre, Geez	2	U+005e U+0079 U+006f
+ǝya	ə y/j a	gǝyaŠay	Tigrigna, Tigre	2	U+01dd U+0079 U+0061
+oy	oy/oi̯	hoyt	Wolane, Zway	2	U+006f U+0079
+iyyu	i yy/jː u	diyyum	Argobba	1	U+0069 U+0079 U+0079 U+0075
+ll$	lː	kwǝll	Geez	1	U+006c U+006c U+0024
+^fw	f w	fwǝr	Gumer	1	U+005e U+0066 U+0077
+ayi$	a y/j i	ʕabayi	Tigre	1	U+0061 U+0079 U+0069 U+0024
+Ќ$	Ќ/kʼ	śɨbbuЌ	Tigrigna	1	U+040c U+0024
+mm$	mː	wǝndɨmm	Amharic	1	U+006d U+006d U+0024
+ǝyyǝ$	ə yy/jː ə	ťɨwǝyyǝ	Muher	1	U+01dd U+0079 U+0079 U+01dd U+0024
+ɨɨ	ɨː	ʔɨɨn	Zway	1	U+0268 U+0268
+ć$	ć/tʃʼ	gunć	Amharic	1	U+0107 U+0024
+ayy$	ayː/ai̯	bayy	Kistane	1	U+0061 U+0079 U+0079 U+0024
+ṗ	pʼ	laṗpe	Oromo	1	U+1e57
+^qw	q w	qwəlʕa	Tigrigna	1	U+005e U+0071 U+0077
+aayu$	aa/aː y/j u	baayu	Zway	1	U+0061 U+0061 U+0079 U+0075 U+0024
+ɨyya$	ɨ yy/jː a	ʔahɨyya	Amharic	1	U+0268 U+0079 U+0079 U+0061 U+0024
+mh	m h	mǝnamhanža	Argobba	1	U+006d U+0068
+ǝyyǝ	ə yy/jː ə	bǝyyǝnǝ	Geez	1	U+01dd U+0079 U+0079 U+01dd
+ooye$	oo/oː y/j e	booye	Oromo	1	U+006f U+006f U+0079 U+0065 U+0024
+Š$	Š/ʃ	qəmɨŠ	Tigrigna	1	U+0160 U+0024
+Ќw	Ќ/kʼ w	nɨЌwuś	Tigrigna	1	U+040c U+0077
+eyǝ$	e y/j ə	ʔaťeyǝ	Inor	1	U+0065 U+0079 U+01dd U+0024
+ɘ	ɘ	Šɘmontǝ	Tigrigna	1	U+0258
+ɨyǝ	ɨ y/j ə	fɨyǝќ	Ezha	1	U+0268 U+0079 U+01dd
+Ќ	Ќ/kʼ	ʔɨnЌurarit	Tigrigna	1	U+040c
+gʷ	gʷ	śaʕɨdaŠɨngʷur	Tigrigna	1	U+0067 U+02b7
+t'ʸ	tʲʼ	t'ʸəl	Tigrigna	1	U+0027 U+02b8
+ww	wː	ʔiwwat	Argobba	1	U+0077 U+0077
+iyu$	i y/j u	ziyu	Harari	1	U+0069 U+0079 U+0075 U+0024
+ʔs	ʔ s	rɨʔsi	Tigrigna	1	U+0294 U+0073
+nh	n h	ќuubanhaano	Zway	1	U+006e U+0068
+^yaa	y/j aː	yaawɨti	Zway	1	U+005e U+0079 U+0061 U+0061
+gs$	g s	nugs	Endegagn	1	U+0067 U+0073 U+0024
+^yǝ$	y/j ə	yǝ	Gogot	1	U+005e U+0079 U+01dd U+0024
+pp$	pː	ǯǝpp	Gumer	1	U+0070 U+0070 U+0024
+xx	xː	ʔaxxaʔ	Harari	1	U+0078 U+0078
+ǝyy$	əyː/ei̯	ќǝyy	Amharic	1	U+01dd U+0079 U+0079 U+0024
+ǝyɨ	ə y/j ɨ	ќǝyɨh	Argobba	1	U+01dd U+0079 U+0268
+fw	f w	gǝnfwǝ	Gogot	1	U+0066 U+0077
+ǝyyɨ	ə yy/j ɨ	qǝyyɨħ	Tigrigna	1	U+01dd U+0079 U+0079 U+0268
+ayyǝ$	a yy/j ə	ʔayyǝ	Amharic	1	U+0061 U+0079 U+0079 U+01dd U+0024
+sw	s w	ʔɨswa	Amharic	1	U+0073 U+0077
+ɨyɨ	ɨ y/j ɨ	xɨyɨma	Argobba	1	U+0268 U+0079 U+0268
+aye$	a y/j e	xaye	Argobba	1	U+0061 U+0079 U+0065 U+0024
+eya$	e y/j a	meya	Endegagn	1	U+0065 U+0079 U+0061 U+0024
+^e	e	ennǝgǝyǝ	Endegagn	1	U+005e U+0065
+_	+	sǝnbǝt nɨʔɨš	Tigre	1	U+005f
+aye	a y/j e	ʔayed	Endegagn	1	U+0061 U+0079 U+0065
+ds$	dz	sɨds	Geez	1	U+0064 U+0073 U+0024
+^ṩ	ṩ/tsʼ	ṩǝħay	Geez	1	U+005e U+1e69
+ǝyǝ	ə y/j ə	wǝyǝg	Gyeto	1	U+01dd U+0079 U+01dd
+ǝyə$	ə y/j ə	ʔɨwǝyə	Inor	1	U+01dd U+0079 U+0259 U+0024
+ayɨ	a y/j ɨ	ʔayɨr	Silte	1	U+0061 U+0079 U+0268
+bh	b h	ʔɨbhamgǝm	Tigre	1	U+0062 U+0068
+^ya$	y/j a	ya	Amharic	1	U+005e U+0079 U+0061 U+0024
+ẞ	β	leẞa	Argobba	1	U+1e9e
+ș	sʼ	ʕǝșru	Geez	1	U+0219
+iyaa	i y/j aː	ʔazziyaač	Harari	1	U+0069 U+0079 U+0061 U+0061
+^yi$	y/j i	yi	Harari	1	U+005e U+0079 U+0069 U+0024
+ɨyyo$	ɨ yy/j o	setɨyyo	Amharic	1	U+0268 U+0079 U+0079 U+006f U+0024
+čč$	tʃː	tačč	Amharic	1	U+010d U+010d U+0024
+^ye	y/j e	yedɨňňaw	Argobba	1	U+005e U+0079 U+0065
+eyǝ	e y/j ə	ʔɨndeyǝta	Ezha	1	U+0065 U+0079 U+01dd
+ǝy	əy/əi̯	ʔǝynu	Geez	1	U+01dd U+0079
+oy$	oy/oi̯	goy	Kistane	1	U+006f U+0079 U+0024
+aya$	a y/j a	ʔaya	Tigre	1	U+0061 U+0079 U+0061 U+0024

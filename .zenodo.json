@@ -1,0 +1,29 @@
+{
+    "title": "CLDF dataset derived from Feleke's \"Ethiosemitic Languages\" from 2021",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Tekabe Legesse Feleke"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Feleke, Tekabe Legesse (2021): Ethiosemitic languages: classifications and classification determinants. Ampersand. 2021. DOI: 10.1016/j.amper.2021.100074.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
