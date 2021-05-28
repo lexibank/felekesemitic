@@ -24,17 +24,10 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         languages = args.writer.add_languages(lookup_factory="Name")
         args.writer.add_sources()
-        concepts = {}
-        for concept in self.concepts:
-            idx = concept['NUMBER']+'_'+slug(concept['ENGLISH'])
-            args.writer.add_concept(
-                    ID=idx,
-                    Name=concept['ENGLISH'],
-                    Number=concept['NUMBER'],
-                    Concepticon_ID=concept['CONCEPTICON_ID'],
-                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
-                    )
-            concepts[concept['ENGLISH']] = idx
+        concepts = args.writer.add_concepts(
+            id_factory=lambda x: x.id.split("-")[-1] + "_" + slug(x.english),
+            lookup_factory=lambda concept: concept.english
+            )
 
         cogs, maxcog = {}, 0
         data = self.raw_dir.read_csv("data.tsv", delimiter="\t")
@@ -62,11 +55,11 @@ class Dataset(BaseDataset):
                             Value=word,
                             Form=form,
                             Cognacy=cognacy,
-                            Source=''
+                            Source='Feleke2021'
                             )
                     args.writer.add_cognate(
                             lexeme=lex,
                             Cognateset_ID=cognacy,
-                            Source=''
+                            Source='Feleke2021'
                             )
 

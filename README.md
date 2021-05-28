@@ -10,10 +10,10 @@ Available online at https://ars.els-cdn.com/content/image/1-s2.0-S22150390210000
 
 
 Conceptlists in Concepticon:
-- [Castro-2015-608](https://concepticon.clld.org/contributions/Castro-2015-608)
+- [Feleke-2021-150](https://concepticon.clld.org/contributions/Feleke-2021-150)
 ## Notes
 
-This dataset was taken from the original data published by Andy Castro, who was so friendly to also share his original concept list with us in digital form. It comprises 16 varieties of the Sui branch of Tai-Kadai, in plain IPA with morphological segmentation.
+In this dataset, there were some problems with the interpretation of sounds, since information was not provided along with them, so it should be taken with some care.
 
 
 
@@ -22,14 +22,14 @@ This dataset was taken from the original data published by Andy Castro, who was 
 
 ![Glottolog: 90%](https://img.shields.io/badge/Glottolog-90%25-green.svg "Glottolog: 90%")
 ![Concepticon: 93%](https://img.shields.io/badge/Concepticon-93%25-green.svg "Concepticon: 93%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 21
 - **Concepts:** 150
 - **Lexemes:** 3,120
-- **Sources:** 0
+- **Sources:** 1
 - **Synonymy:** 1.00
 - **Cognacy:** 3,120 cognates in 678 cognate sets (322 singletons)
 - **Cognate Diversity:** 0.18
@@ -37,12 +37,6 @@ This dataset was taken from the original data published by Andy Castro, who was 
 - **Tokens:** 15,688
 - **Segments:** 98 (0 BIPA errors, 0 CTLS sound class errors, 98 CLTS modified)
 - **Inventory size (avg):** 50.14
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 3120/3120 (100.00%)
 
 # Contributors
 

@@ -4,7 +4,7 @@
     "dc:bibliographicCitation": "Feleke, Tekabe Legesse (2021): Ethiosemitic languages: classifications and classification determinants. Ampersand. 2021. DOI: 10.1016/j.amper.2021.100074.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Castro-2015-608"
+        "http://concepticon.clld.org/contributions/Feleke-2021-150"
     ],
     "dc:identifier": "https://ars.els-cdn.com/content/image/1-s2.0-S2215039021000023-mmc1.pdf",
     "dc:isVersionOf": null,
@@ -12,7 +12,14 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Feleke's \"Ethiosemitic Languages\" from 2021",
+    "dcat:accessURL": "https://github.com/lexibank/felekesemitic/",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/felekesemitic/",
+            "dc:created": "59b6e1f"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
@@ -23,7 +30,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.5-rc5-30-g21a17f0"
         },
         {
             "rdf:type": "prov:Entity",
