@@ -1,8 +1,14 @@
 # CLDF dataset derived from Feleke's "Ethiosemitic Languages" from 2021
 
-Cite the source dataset as
+## How to cite
 
-> Feleke, Tekabe Legesse (2021): Ethiosemitic languages: classifications and classification determinants. Ampersand. 2021. DOI: 10.1016/j.amper.2021.100074.
+If you use these data please cite
+- the original source
+  > Feleke, Tekabe Legesse (2021): Ethiosemitic languages: classifications and classification determinants. Ampersand. 2021. DOI: 10.1016/j.amper.2021.100074.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-By-4.0 license
 
@@ -46,3 +52,10 @@ Johann-Mattis List | @LinguList  | maintainer | Other
 Tekabe Legesse Feleke | | author | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
