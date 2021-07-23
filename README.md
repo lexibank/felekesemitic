@@ -1,5 +1,7 @@
 # CLDF dataset derived from Feleke's "Ethiosemitic Languages" from 2021
 
+[![CLDF validation](https://github.com/lexibank/felekesemitic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/felekesemitic/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -26,6 +28,7 @@ In this dataset, there were some problems with the interpretation of sounds, sin
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/felekesemitic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/felekesemitic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 90%](https://img.shields.io/badge/Glottolog-90%25-green.svg "Glottolog: 90%")
 ![Concepticon: 93%](https://img.shields.io/badge/Concepticon-93%25-green.svg "Concepticon: 93%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
