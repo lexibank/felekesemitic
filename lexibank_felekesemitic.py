@@ -18,7 +18,7 @@ class Dataset(BaseDataset):
     id = "felekesemitic"
     dir = Path(__file__).parent
     concept_class = CustomConcept
-
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = FormSpec(separators=",")
 
     def cmd_makecldf(self, args):
